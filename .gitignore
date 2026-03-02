@@ -1,6 +1,6 @@
 # Large data files
 *.csv
-*.pkl
+# *.pkl (Removed to allow model upload)
 
 # Python artifacts
 __pycache__/
