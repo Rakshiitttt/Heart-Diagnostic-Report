@@ -1,0 +1,11 @@
+[server]
+# Disable file watcher to prevent inotify limit errors on Streamlit Cloud
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+magicEnabled = false
