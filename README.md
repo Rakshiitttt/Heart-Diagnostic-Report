@@ -2,7 +2,7 @@
 
 A premium, clinical-grade medical application that utilizes **Explainable AI (XAI)** and **LightGBM** to predict the likelihood of heart disease in patients based on bio-markers.
 
-![Demo Mockup](https://raw.githubusercontent.com/lucide-react/lucide/main/icons/heart-pulse.svg)
+![[Demo](https://heart-diagnostic-report.streamlit.app/)]
 
 ## 🌟 Overview
 This project transforms a data-science research notebook into a production-ready medical dashboard. It features a high-performance **FastAPI** backend that handles clinical feature engineering and a modern **React** frontend designed with a dark glassmorphism aesthetic for professional environments.
